@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: archive
 permalink: /
 title: "G E N T R O P A"
 ---
