@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: media
 permalink: /
 title: "G E N T R O P A"
 ---
