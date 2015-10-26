@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: default
 permalink: /
-title: "Latest Posts"
+title: "G E N T R O P A"
 ---
 
 <div class="tiles">
