@@ -25,7 +25,7 @@ author: phlow
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://www.gentropa.com'
-baseurl: 'https://www.gentropa.com'
+baseurl: 'http://www.gentropa.com'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -37,7 +37,7 @@ improve_content: https://github.com/gentropa/gentropa.github.io/_includes
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://www.gentropa.com/assets/img/'
+urlimg: 'http://www.gentropa.com/assets/img/'
 
 
 # Logo size is 600x80 pixels
