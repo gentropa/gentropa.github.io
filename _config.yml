@@ -37,7 +37,7 @@ improve_content: https://github.com/gentropa/gentropa.github.io/_includes
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://www.gentropa.com/images/'
+urlimg: 'https://www.gentropa.com/assets/img/'
 
 
 # Logo size is 600x80 pixels
