@@ -20,7 +20,7 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: kamyk
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -102,7 +102,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: kamyk     # Default author for pages
   -
     scope:
       path: ""
@@ -111,7 +111,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: kamyk     # Default author for posts
 
 
 
