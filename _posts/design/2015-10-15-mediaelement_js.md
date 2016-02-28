@@ -15,7 +15,7 @@ tags:
 #
 # Styling
 #
-header: no
+header: yes
 # image:
 #    title: mediaplayer_js-title.jpg
 #    thumb: mediaplayer_js-thumb.jpg
