@@ -8,15 +8,15 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "G E N T R O P A -- NGS Bioinformatics"
+title: "G E N T R O P A -- Applied NGS Bioinformatics"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Aplied NGS Bioinformatics"
+slogan: "GENTROPA: Applied NGS Bioinformatics"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Aplied NGS Bioinformatics"
+description: "»Kompletne analizy surowych danych NGS: RNA-Seq, ChIP-Seq"
 
 # Main author of the website
 # See > authors.yml
@@ -37,7 +37,7 @@ improve_content: https://github.com/gentropa/gentropa.github.io/_includes
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-#urlimg: 'http://www.gentropa.com/assets/img/'
+urlimg: 'http://www.gentropa.com/assets/img/'
 
 
 # Logo size is 600x80 pixels
