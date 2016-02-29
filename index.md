@@ -38,7 +38,7 @@ callforaction:
   text: Inform me about new updates and features ›
   style: alert
 
-# permalink: /index.html
+permalink: /index.html
 
 #
 ---
