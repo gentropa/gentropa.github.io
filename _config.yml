@@ -8,15 +8,15 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "G E N T R O P A - Applied NGS Bioinformatics"
+title: "G E N T R O P A - NGS Bioinformatics"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "GENTROPA: Applied NGS Bioinformatics"
+slogan: "GENTROPA: NGS Bioinformatics"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Kompletne analizy surowych danych NGS: RNA-Seq, ChIP-Seq"
+description: "»Kompletne analizy danych NGS: RNA-Seq, ChIP-Seq"
 
 # Main author of the website
 # See > authors.yml
@@ -45,7 +45,7 @@ logo: "logo.png"
 
 
 # Paginates all X entries
-paginate: 5
+paginate: 3
 
 
 # Pagination path › Important for blog page in /blog/ to work
