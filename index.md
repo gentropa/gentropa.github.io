@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-image_fullwidth: header_unsplash_12.jpg
+header: hello
+# image_fullwidth: header_unsplash_12.jpg
 
 # Use the call for action to show a button on the frontpage
 #
