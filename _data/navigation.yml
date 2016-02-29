@@ -1,4 +1,4 @@
-- title: Start
+- title: GENTROPA
   url: "/"
   side: left
 
@@ -63,13 +63,13 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Archiwum bloga"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Szukaj"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Kontakt"
   url: "/contact/"
   side: right
