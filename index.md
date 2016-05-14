@@ -4,12 +4,13 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
+##  image_fullwidth: header_unsplash_12.jpg
+
 layout: frontpage
 header: 
     background-color: "#fabb00"
 
 
-##  image_fullwidth: header_unsplash_12.jpg
 
 # Use the call for action to show a button on the frontpage
 #
