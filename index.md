@@ -7,7 +7,7 @@
 ##  image_fullwidth: header_unsplash_12.jpg
 
 layout: frontpage
-header: 
+#   header: 
     background-color: "#fabb00"
 
 
