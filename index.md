@@ -8,7 +8,7 @@
 
 layout: frontpage
 #   header: 
-color: "#fabb00"
+background-color: "#fabb00"
 
 
 
