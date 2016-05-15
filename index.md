@@ -11,7 +11,7 @@ layout: frontpage
 #    image_fullwidth: header_unsplash_12.jpg
     header: no
         image:
-            title: logo.png
+            homepage: logo.png
             background-color: "#fabb00"
 
 
