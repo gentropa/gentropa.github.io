@@ -12,7 +12,7 @@ layout: frontpage
 #    header: no
 image:
     homepage: logo.png
-    background-color: "#fabb00"
+    color: "#fabb00"
 
 
 # Use the call for action to show a button on the frontpage
