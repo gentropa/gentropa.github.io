@@ -9,7 +9,7 @@ layout: frontpage
 #   header: 
 #    background-color: "#fabb00"
 #    image_fullwidth: header_unsplash_12.jpg
-    header: 
+    header: no
         image:
             title: logo.png
             background-color: "#fabb00"
