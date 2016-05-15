@@ -23,8 +23,6 @@ header:
 # To change colors see sass/_01_settings_colors.scss
 #
 
-text: 'I co tu jeszcze można zrobić?'
-
 widget1:
   title: "Blog & Portfolio"
 #  url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -50,3 +48,4 @@ permalink: /index.html
 
 #
 ---
+## I co tu jeszcze można zrobić?
