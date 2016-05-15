@@ -23,7 +23,7 @@ header:
 # To change colors see sass/_01_settings_colors.scss
 #
 
-I co tu jeszcze można zrobić?
+text: 'I co tu jeszcze można zrobić?'
 
 widget1:
   title: "Blog & Portfolio"
