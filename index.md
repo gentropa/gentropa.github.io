@@ -9,12 +9,9 @@ layout: frontpage
 #   header: 
 #    image_fullwidth: header_unsplash_12.jpg
 
-header: no
+header:
+    image_fullwidth: logo.png
     background-color: "#fabb00"
-
-image:
-    homepage: logo.png
-
 
 # Use the call for action to show a button on the frontpage
 #
