@@ -10,7 +10,7 @@ layout: page
 #    image_fullwidth: header_unsplash_12.jpg
 
 header:
-#    image: zrzut1.png
+    image: logo.png
 #    title: - Analiza danych NGS
     background-color: "#fabb00"
 
