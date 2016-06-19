@@ -55,4 +55,4 @@ Cześć !
 Nazywam się Paweł Kamiński i od 8-miu lat zajmuję się analizą danych biologicznych. Początkowo były to analizy danych mikromacierzowych, a obecnie przede wszystkim dane pochodzące z sekwencjonowanie NGS.
 Aktualnie kończę doktorat z bioinformatyki.
 
-Oferuję analizy odpłatne bądź w zamian za umieszczenie nazwiska w publikacji.
+Oferuję analizy danych NGS odpłatne, bądź w zamian za umieszczenie nazwiska w publikacji. Warunki do uzgodnienia.
