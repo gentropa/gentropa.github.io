@@ -66,4 +66,4 @@ Opisana powyżej analiza transkryptomu, choć spotykana najczęściej, nie jest 
 - na analizę copy number variation
 - odkrycie nowego miRNA
 - określenie miejsc wiązania miRNA lub innego czynnika regulującego ekspresję genu (np. czynnika transkrypcyjnego)
-
+- i inne...
