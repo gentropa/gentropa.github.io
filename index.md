@@ -56,3 +56,4 @@ Nazywam się Paweł Kamiński i od 8-miu lat zajmuję się analizą danych biolo
 Aktualnie kończę doktorat z bioinformatyki.
 
 Oferuję analizy danych NGS odpłatne, bądź w zamian za umieszczenie nazwiska w publikacji. Warunki do uzgodnienia.
+Służę również pomocą w zakresie przygotowania eksperymentu do sekwencjonowania NGS: ilośc powtórzeń biologicznych, głębokość sekwencjonowania, itp.
