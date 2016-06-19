@@ -10,8 +10,8 @@ layout: page
 #    image_fullwidth: header_unsplash_12.jpg
 
 header:
-#    image: logo.png
-    title: G E N T R O P A
+    image: logo.png
+#    title: - G E N T R O P A
     background-color: "#fabb00"
 
 # Use the call for action to show a button on the frontpage
