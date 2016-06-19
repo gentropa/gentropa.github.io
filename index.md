@@ -62,7 +62,7 @@ Do analizy najchętniej przyjmuję dane w postaci surowej, w formacie FASTQ, ale
 
 Opisana powyżej analiza transkryptomu, choć spotykana najczęściej, nie jest jedyną możliwą do przeprowadzenia. Oferuję pełen zakres analiz i stale czekam na nowe, nawet te trudne i złożone wyzwania. Sekwencjonowanie NGS w szczególności pozwala:
 
-### &lt;ul
+### &lt;ul;
 - określić występujący wariant genu (SNP)
 - na analizę copy number variation
 - odkrycie nowego miRNA
