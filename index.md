@@ -58,6 +58,11 @@ Aktualnie kończę przygotowywać doktorat z zakresu bioinformatyki.
 Oferuję analizy danych NGS odpłatne, bądź w zamian za umieszczenie nazwiska w publikacji. Warunki do uzgodnienia.
 Służę również pomocą w zakresie przygotowania eksperymentu do sekwencjonowania NGS: ilośc powtórzeń biologicznych, głębokość sekwencjonowania, itp.
 
-Do analizy najchętniej przyjmuję dane w postaci surowej, w formacie FASTQ, ale nie stanowi dla mnie problemu przeprowadzenie analizy w oparciu o dane w innym formacie (np. BAM czy SAM, lub vcf). Dysponując danymi w postaci surowej mogę przeprowadzić analizę jakości samego procesu sekwencjonowania NGS i odfiltrować odczyty o złej jakości. Po takim etapie analizy jakościowej w zależności od postawionego celu badania zazwyczaj przeprowadza się mapowanie do genomu referencyjnego. Najczęściej spotykaną sytuacją jest analiza transkryptomu, RNA-seq, i określenie genów, które zmieniły swą ekspresję w reakcji na określony czynnik - diferential gene expression. Zestawiająć otrzymaną w analizie listę genów, których ekspresja się zmieniła, z danymi zawartymi w Gene Ontology, bądź podobnymi źródłami, można stwierdzić których szlaków (pathway analysis/enrichment) te zmiany dotyczą.
+Do analizy najchętniej przyjmuję dane w postaci surowej, w formacie FASTQ, ale nie stanowi dla mnie problemu przeprowadzenie analizy w oparciu o dane w innym formacie (np. BAM czy SAM, lub vcf). Dysponując danymi w postaci surowej mogę przeprowadzić analizę jakości samego procesu sekwencjonowania NGS i odfiltrować odczyty o złej jakości. Po takim etapie analizy jakościowej w zależności od postawionego celu badania zazwyczaj przeprowadza się mapowanie do genomu referencyjnego. Najczęściej spotykaną sytuacją jest analiza transkryptomu, RNA-seq, i określenie genów, które zmieniły swą ekspresję w reakcji na określony czynnik - diferential gene expression. Zestawiająć otrzymaną w analizie listę genów, których ekspresja się zmieniła, z danymi zawartymi w Gene Ontology, bądź w podobnych źródłach, można stwierdzić których szlaków metabolicznych (pathway analysis/enrichment) te zmiany dotyczą.
 
-Analiza transkryptomu, choć spotykana najczęściej, nie jest jedyną możliwą do przeprowadzenia. Oferuję pełen zakres analiz i stale czekam na nowe, nawet te trudne i złożone wyzwania.
+Opisana powyżej analiza transkryptomu, choć spotykana najczęściej, nie jest jedyną możliwą do przeprowadzenia. Oferuję pełen zakres analiz i stale czekam na nowe, nawet te trudne i złożone wyzwania. Sekwencjonowanie NGS w szczególności pozwala:
+
+<ul> określić występujący wariant genu (SNP)
+na analizę copy number variation
+odkrycie nowego miRNA
+określenie miejsc wiązania miRNA
