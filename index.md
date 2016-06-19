@@ -57,3 +57,5 @@ Aktualnie kończę przygotowywać doktorat z zakresu bioinformatyki.
 
 Oferuję analizy danych NGS odpłatne, bądź w zamian za umieszczenie nazwiska w publikacji. Warunki do uzgodnienia.
 Służę również pomocą w zakresie przygotowania eksperymentu do sekwencjonowania NGS: ilośc powtórzeń biologicznych, głębokość sekwencjonowania, itp.
+
+Preferuję otrzymać dane w postaci surowej, w formacie FASTQ, ale nie stanowi dla mnie problemu przeprowadzenie analizy w oparciu o dane w innym formacie (np. BAM czy SAM, lub vcf). Dysponując danymi w postaci surowej mogę przeprowadzić analizę jakości procesu sekwencjonowania NGS i odfiltrować odczyty o złej jakości. Po takim etapie analizy jakościowej w zależności od postawionego celu badania zazwyczaj przeprowadza się mapowanie do genomu referencyjnego.
