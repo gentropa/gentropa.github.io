@@ -50,4 +50,6 @@ permalink: /index.html
 #
 ---
 
-<blockquote>I co tu jeszcze można zrobić?
+Cześć !
+
+Nazywam się Paweł Kamiński i od 8-śmiu lat zajmuję się analizą danych biologicznych. Początkowo były to analizy danych mikromacierzowych, a obecnie przede wszystkim dane pochodzące z sekwencjonowanie NGS.
