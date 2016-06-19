@@ -11,7 +11,7 @@ layout: page
 
 header:
     image: zrzut1.png
-    title: - Analiza danych NGS
+#    title: - Analiza danych NGS
     background-color: "#fabb00"
 
 # Use the call for action to show a button on the frontpage
