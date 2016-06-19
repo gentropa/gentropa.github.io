@@ -36,7 +36,7 @@ If you want to show the sidebar, just enter `sidebar: left` or `sidebar: right` 
 
 
 ### Page/Post with or without metadata
-If you want to show metadata like categories, tags and date at the end of the page, just enter `show_meta: true`. It's on by default. You can change it via `config.yml`. To turn of metadata just enter – *yes, you guessed right* – `show_meta: false`.
+If you want to show metadata like categories, tags and date at the end of the page, just enter `show_meta: true`. It's on by default. You can change it via `_config.yml`. To turn of metadata just enter – *yes, you guessed right* – `show_meta: false`.
 
 
 
@@ -114,7 +114,7 @@ With foundation responsive videos are easy. [More ›](http://foundation.zurb.co
 {% endhighlight %}
 
 
-<img class="t60" src="{{ site.url }}/images/header_homepage_13.jpg">
+<img class="t60" src="{{ site.url }}/images/header_homepage_13.jpg" alt="">
 
 ## Images: Title, Thumbnails, Homepage   {#images}
 
