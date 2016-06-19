@@ -10,7 +10,7 @@ layout: page
 #    image_fullwidth: header_unsplash_12.jpg
 
 header:
-    image: logo.png
+    image: zrzut1.png
 #    title: - G E N T R O P A
     background-color: "#fabb00"
 
