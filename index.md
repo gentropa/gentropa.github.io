@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 
-layout: frontpage
+layout: page
 #   header: 
 #    image_fullwidth: header_unsplash_12.jpg
 
