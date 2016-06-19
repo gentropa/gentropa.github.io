@@ -16,7 +16,7 @@ slogan: "GENTROPA: NGS Bioinformatics"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "» Kompletne analizy danych NGS: RNA-Seq, ChIP-Seq, miRNA-seq, full DNA-seq. Analiza transkryptomu, genomu, egzomu, epigenomu."
+description: "» Kompletne analizy danych NGS: RNA-Seq, ChIP-Seq, miRNA-seq, full DNA-seq. Analiza transkryptomu, genomu, egzomu, epigenomu. Analizy Varian Calling, Differential Expresion, ..."
 
 # Main author of the website
 # See > authors.yml
