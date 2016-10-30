@@ -13,8 +13,7 @@ permalink: "/contact/"
 Czekam na Państwa pytania pod adresem:<br><br>
 traffic@gentropa.com<br><br>
 lub<br>
-proszę dzwonić:<br>
-22 490 67 69<br>
-</h3>
-<h4>(numer Warszawski)</h4>
+proszę dzwonić:<br><br>
+22 490 67 69<br><br>
+<h4>(numer warszawski)</h4>
 </center>
