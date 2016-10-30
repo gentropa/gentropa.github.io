@@ -17,7 +17,5 @@ Czekam na Państwa pytania pod adresem:<br><br>
 lub<br>
 proszę dzwonić:<br><br>
 </center></h4>
-<h3>
-<i>22 490 67 69</i>
-</center></h3>
+<h3><center><i>22 490 67 69</i></center></h3>
 <h4><center>(numer warszawski)</center></h4>
