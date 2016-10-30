@@ -10,10 +10,10 @@ permalink: "/contact/"
 
 <h3>
 <center>
-Czekam na Państwa pytania pod adresem:
-traffic@gentropa.com
-lub
-proszę dzwonić:
+Czekam na Państwa pytania pod adresem:<br>
+traffic@gentropa.com<br>
+lub<br>
+proszę dzwonić:<br>
 22 490 67 69
 </center>
 </h3>
