@@ -69,4 +69,4 @@ Opisana powyżej analiza transkryptomu, choć spotykana najczęściej, nie jest 
 - i inne...
 
 
-### Strona wykorzystuje pliki Cookie
+##### Strona wykorzystuje pliki Cookie
