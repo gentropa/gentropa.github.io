@@ -67,3 +67,6 @@ Opisana powyżej analiza transkryptomu, choć spotykana najczęściej, nie jest 
 - odkrycie nowego miRNA
 - określenie miejsc wiązania miRNA lub innego czynnika regulującego ekspresję genu (np. czynnika transkrypcyjnego)
 - i inne...
+
+
+### Strona wykorzystuje pliki Cookie
