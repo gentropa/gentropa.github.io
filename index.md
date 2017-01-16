@@ -69,5 +69,6 @@ Opisana powyżej analiza transkryptomu, choć spotykana najczęściej, nie jest 
 - i inne...
 
 
-<br><br><br><br><br>
-Strona wykorzystuje pliki [Cookie](https://pl.wikipedia.org/wiki/HTTP_cookie)
+<br><br><br><br><br><small>
+Strona wykorzystuje pliki ["Cookie"](https://pl.wikipedia.org/wiki/HTTP_cookie)
+</small>
