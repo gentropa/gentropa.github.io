@@ -70,4 +70,4 @@ Opisana powyżej analiza transkryptomu, choć spotykana najczęściej, nie jest 
 
 
 <br><br><br><br><br>
-<center> Strona wykorzystuje pliki [Cookie](https://pl.wikipedia.org/wiki/HTTP_cookie) </center>
+Strona wykorzystuje pliki [Cookie](https://pl.wikipedia.org/wiki/HTTP_cookie)
