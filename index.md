@@ -69,4 +69,5 @@ Opisana powyżej analiza transkryptomu, choć spotykana najczęściej, nie jest 
 - i inne...
 
 
+<br><br><br><br><br>
 <h6><center> Strona wykorzystuje pliki Cookie </center></h6>
