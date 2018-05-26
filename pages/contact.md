@@ -13,11 +13,11 @@ permalink: "/contact/"
 Czekam na Państwa pytania pod adresem:<br><br>
 <i>traffic@gentropa.com</i><br><br>
 </h3>
+<!---
 <h4>
 lub<br>
 proszę dzwonić:<br><br>
 </h4>
-<!---
 <h3><i>22 490 67 69</i></h3>
 <h4>(numer warszawski)</h4>
 -->
